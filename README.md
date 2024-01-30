@@ -1,6 +1,6 @@
-android_version1noisrev_diordna
+android_version2noisrev_diordna
 android_look_times30semit_kool_diordna
-android_look_type0_0_0,1_2_0,1_-2_0epyt_kool_diordna
+android_look_type1_10_10,1_2_0,1_-2_0epyt_kool_diordna
 android_key10yek_diordna
 android_banner10rennab_diordna
 android_reward10drawer_diordna
