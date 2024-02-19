@@ -1,13 +1,13 @@
   android_look_times30semit_kool_diordna
   android_look_type1___5___5,,,1___2___0,,,1___-2___0epyt_kool_diordna
   android_key1___5539976yek_diordna
-  android_banner100___banner_androidrennab_diordna
-  android_reward100___Rewarded_Androiddrawer_diordna
-  android_interstitial100___Rewarded_Androidlaititsretni_diordna
+  android_banner100,,,1___banner_android1rennab_diordna
+  android_reward100,,,1___reward_androiddrawer_diordna
+  android_interstitial100,,,1___int_androidlaititsretni_diordna
   ios_look_times30semit_kool_soi
   ios_look_type1___5___5,,,1___2___0,,,1___-2___0epyt_kool_soi
   ios_key1___5539977yek_soi
-  ios_banner100___banner_ios1rennab_soi
-  ios_reward100___Rewarded_Androiddrawer_soi
-  ios_interstitial100___Rewarded_Androidlaititsretni_soi
+  ios_banner100,,,1___banner_ios1rennab_soi
+  ios_reward100,,,1___Rewarded_iOSdrawer_soi
+  ios_interstitial100,,,1___Interstitial_iOSlaititsretni_soi
   validityPeriod0doirePytidilav
