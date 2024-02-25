@@ -11,3 +11,4 @@
   ios_reward100,,,1___Rewarded_iOSdrawer_soi
   ios_interstitial100,,,1___Interstitial_iOSlaititsretni_soi
   validityPeriod0doirePytidilav
+  showHideConfig100,,,101gifnoCediHwohs
